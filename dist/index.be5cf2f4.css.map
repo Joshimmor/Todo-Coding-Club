@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/styles.css"],"sourcesContent":["#list{\r\n    padding: 0;\r\n    margin: 0;\r\n}\r\n#list > li{\r\n    list-style: none;\r\n}\r\n#list > li > p{\r\n    margin:0;\r\n}"],"names":[],"version":3,"file":"index.be5cf2f4.css.map","sourceRoot":"/__parcel_source_root/"}
